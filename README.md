@@ -14,7 +14,7 @@ Clone the repository to your local machine:
 
 sh
 Copy code
-git clone https://github.com/yourusername/patient-management-system.git
+git clone https://github.com/jgren03523/EssatoTaskClinicManage.git
 Open the solution file (ClinicManagementSystem.sln) in Visual Studio.
 
 Restore NuGet packages:
