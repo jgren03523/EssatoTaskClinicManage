@@ -1,6 +1,6 @@
 # EssatoTaskClinicManage
 Patient Management System
-Welcome to the Patient Management System, a RESTful API designed to simplify the management of patient records for medical clinics. This project is part of an intern application task for Essato Company, showcasing the ability to create, read, update, and delete (CRUD) patient data, along with enhanced features like dynamic sorting and search capabilities.
+Welcome to the Patient Management System, a RESTful API designed to simplify the management of patient records for medical clinics. This project is part of an intern application task for Essato Company, showcasing the ability to create, read, update, and delete (CRUD) patient data, along with enhanced feature as requested - my invention filtering by City or Zipcode
 
 Getting Started
 These instructions will get your copy of the project up and running on your local machine for development and testing purposes.
