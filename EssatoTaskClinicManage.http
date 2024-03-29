@@ -1,0 +1,6 @@
+@EssatoTaskClinicManage_HostAddress = http://localhost:5047
+
+GET {{EssatoTaskClinicManage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
